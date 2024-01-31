@@ -1,4 +1,5 @@
 # GPL_TD1
+Florentin BRUNNER Alexis CAMPO Pierre CAVALLI
 
 moktar1
 moktar2
@@ -21,12 +22,3 @@ Lutin 3
 Lutin 4
 Lutin5
 Lutin 6
-
-.
-Florentin BRUNNER
-Alexis CAMPO
-Pierre CAVALLI
-.
-.
-
-
